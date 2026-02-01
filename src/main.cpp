@@ -4,8 +4,8 @@
 #include <ArduinoJson.h>
 
 // WiFi credentials - UPDATE THESE WITH YOUR NETWORK DETAILS
-const char* ssid = "YOUR_WIFI_SSID";
-const char* password = "YOUR_WIFI_PASSWORD";
+const char* ssid = "AK's Weapon";
+const char* password = "1122334455";
 
 // Ultrasonic sensor pins
 #define TRIG_PIN 5
